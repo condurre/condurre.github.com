@@ -36,4 +36,12 @@
 ### The BIRD Internet Routing Daemon
 - http://bird.network.cz
 
+### MQTT
+- http://mqtt.org
+
+### STOMP
+- https://stomp.github.io
+
+### CoAP
+- https://tools.ietf.org/html/rfc7252
 
